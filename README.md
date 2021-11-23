@@ -113,6 +113,10 @@ Usando RB como R1 Y RC como R3
 **45) Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.**
 
 
+#### 49) Encuentre RT en la figura 5-89.
+![image](https://user-images.githubusercontent.com/93398718/143072392-83d63501-1906-4c6a-89fd-61d55d2848f9.png)
+
+![image](https://user-images.githubusercontent.com/93398718/143104091-2cc043cb-6669-493d-b122-92a9c6d460a6.png)
 
 
 **51) En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.**
@@ -122,6 +126,8 @@ Usando RB como R1 Y RC como R3
 Calculamos las caidas de voltaje, como vemos en el punto A el voltaje es el mismo que de la fuente. En el punto B es igual al voltaje que sale de la resistencia 5.6 k.ohmios, en el punto C es igual a la salida de voltaje de la segunda resistencia y en el punto D es igual al valor de la salida de voltaje en el resistor de 1 k-ohmio, los voltajes son positivos ya que respecto a tierra tienen el mismo sentido. 
 
 ![image](https://user-images.githubusercontent.com/93361435/143037814-00d5082f-8a2e-4a12-9ff0-1ea3fad4bacd.png)
+
+#### 55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
 
 
 
