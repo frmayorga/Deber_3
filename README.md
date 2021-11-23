@@ -127,7 +127,8 @@ Calculamos las caidas de voltaje, como vemos en el punto A el voltaje es el mism
 
 ![image](https://user-images.githubusercontent.com/93361435/143037814-00d5082f-8a2e-4a12-9ff0-1ea3fad4bacd.png)
 
-#### 55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
+#### 55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.  
+![image](https://user-images.githubusercontent.com/93398718/143108609-fdb733c4-4c14-4af3-b790-ea71cc4a4d9d.png)
 
 
 
