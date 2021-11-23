@@ -130,7 +130,8 @@ Calculamos las caidas de voltaje, como vemos en el punto A el voltaje es el mism
 #### 55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.  
 ![image](https://user-images.githubusercontent.com/93398718/143108609-fdb733c4-4c14-4af3-b790-ea71cc4a4d9d.png)
 
-
+- a) se tiene un circuito abierto en R4
+- b) se tiene un cortocicuito
 
 **57) La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.**
 
