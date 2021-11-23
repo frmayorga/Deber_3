@@ -112,6 +112,11 @@ Usando RB como R1 Y RC como R3
 
 **45) Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del 1% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.**
 
+![image](https://user-images.githubusercontent.com/93361435/143133387-887c6618-991c-4312-9eb3-c285050d94a9.png)
+
+Tenemos el siguiente circuito esquematico para la indicacion.
+
+
 
 #### 49) Encuentre RT en la figura 5-89.
 ![image](https://user-images.githubusercontent.com/93398718/143072392-83d63501-1906-4c6a-89fd-61d55d2848f9.png)
@@ -166,11 +171,80 @@ Interruptor en B = V1 y V3 = 15 V; V2 y V4 = 0 V;
 
 Interruptor en C = V1 y V2 = 15 V; V3 y V4 = 0 V; 
 
-**15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
-
-![image](https://user-images.githubusercontent.com/93361435/143087272-9f87fe18-c1ba-49a5-9787-a9a508a59703.png)
 
 
+**15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
+
+![image](https://user-images.githubusercontent.com/93361435/143132730-6ce74c36-da9f-4c6e-b7b1-1d6987087a14.png)
+
+![image](https://user-images.githubusercontent.com/93361435/143132768-960af517-5029-4289-82bd-38e49d73e88c.png)
+
+Realizamos el calculo de la resistencia total con la formula de resistores en paralelo.
+
+
+
+**21)¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?**
+(a) SW1 y SW2 abiertos            (b) SW1 cerrado, SW2 abierto
+(c) SW1 abierto, SW2 cerrado      (d) SW1 y SW2 cerrados
+
+![image](https://user-images.githubusercontent.com/93361435/143132914-862b4af0-969b-40e4-b37d-4dfbb1afbc36.png)
+
+Podemos observar que dependiendo de como esten los interruptorres podemos calcular una resistencia total en paralelo: 
+
+![image](https://user-images.githubusercontent.com/93361435/143132880-99fea9d7-7fb4-40c4-a53a-a3e5fe24149f.png)
+
+
+
+
+
+
+
+**27) ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ohmios mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?**
+
+![image](https://user-images.githubusercontent.com/93361435/143131314-93609d54-5d8a-4f2c-b99f-1d0679d22e1e.png)
+
+Usando la ley de Ohm calculamos la resistencia total, despues despejamos R2 de la formula de resistencia total en paralelo:
+
+![image](https://user-images.githubusercontent.com/93361435/143132062-ea6ce155-415f-4845-8bef-c3df50e978b2.png)
+
+
+
+**33) Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.**
+
+![image](https://user-images.githubusercontent.com/93361435/143130892-cb373d99-e97a-4478-80c0-cf1e202e80c2.png)
+
+Usamos la formula de divisor de corriente, ademas calculamos la resistencia total de cada circuito:
+
+![image](https://user-images.githubusercontent.com/93361435/143131049-fae32c56-e264-4e99-8994-2c857be5a1c2.png)
+
+![image](https://user-images.githubusercontent.com/93361435/143130978-0c3680f6-1338-47da-acf2-eeb92b2bec34.png)
+
+
+
+
+**39) Determine la potencia total en cada uno de los circuitos de la figura 6-81.**
+
+![image](https://user-images.githubusercontent.com/93361435/143130701-0aad6979-20d1-45bc-badb-1fe153047c3f.png)
+
+Con los calculos anteriormente realizados procedemos a calcular la potencia total: 
+
+![image](https://user-images.githubusercontent.com/93361435/143130744-f7ce40b7-3528-4484-9012-df948d7940e4.png)
+
+
+
+**45) ¿Qué está mal con el circuito de la figura 6-86?**
+
+![image](https://user-images.githubusercontent.com/93361435/143130329-b06cd620-c021-4c9a-9485-3f1ae80d27a9.png)
+
+Procedemos a evaluar la corriente de cada resistor y la corriente total:
+
+![image](https://user-images.githubusercontent.com/93361435/143130491-811b20eb-8628-483e-8944-c3fa2dc6105c.png)
+
+Observamos que los valores no coinciden asi que podria tratarse de un resistor abierto, restamos la resistencia total con la resistencia medida:
+
+![image](https://user-images.githubusercontent.com/93361435/143130594-b43fb517-5e58-4b74-92d7-e0aa53aa8bac.png)
+
+Encontramos que el resistor tres esta abierto o desconectado del circuito. 
 
 
 # VIDEO
