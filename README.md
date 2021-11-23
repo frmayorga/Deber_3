@@ -131,6 +131,37 @@ Calculamos las caidas de voltaje, como vemos en el punto A el voltaje es el mism
 
 ![image](https://user-images.githubusercontent.com/93361435/143038407-d14363b9-acd5-4109-b287-914ec1294ed4.png)
 
+Los resultados son correctos podemos observar que los datos son correctos, usando tanto la cara posterior como la delantera al conectar los puntos podemos notar que los valores son correctos.
+
+
+# CAPITULO 6
+
+**1)Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
+
+![image](https://user-images.githubusercontent.com/93361435/143086166-90979831-6cc2-4eb4-84ac-eb3b440bf5d2.png)
+
+Se puede conectar de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/93361435/143086067-21df41cd-7ac9-4306-b718-f8b01875af0c.png)
+
+
+
+**7) ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
+
+![image](https://user-images.githubusercontent.com/93361435/143086281-566b399a-7f95-4b1c-88d9-c01ac08f3500.png)
+
+Como tenemos un cicuito en paralelo los votajes son los mismos en las resistencias conectadas.
+
+Interruptor en A = V1 y V4 = 15 V; V2 y V3 = 0 V; 
+
+Interruptor en B = V1 y V3 = 15 V; V2 y V4 = 0 V; 
+
+Interruptor en C = V1 y V2 = 15 V; V3 y V4 = 0 V; 
+
+**15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+![image](https://user-images.githubusercontent.com/93361435/143087272-9f87fe18-c1ba-49a5-9787-a9a508a59703.png)
+
 
 
 
