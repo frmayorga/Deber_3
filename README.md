@@ -20,6 +20,8 @@ Resumen Capitulo 5
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
+# CAPITULO 5
+
 
 **9) Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.**
 
@@ -98,6 +100,42 @@ Calculamos las caidas de voltaje, como vemos en el punto A el voltaje es el mism
 
 ![image](https://user-images.githubusercontent.com/93361435/143038407-d14363b9-acd5-4109-b287-914ec1294ed4.png)
 
+Como vemos las entradas de la tabla estan correctas, las que tienen valor infinito corresponden es porque no llega corriente a esos puntos, los demas puntos estan sumadas las resistencias fanfo valores exactos.  
+
+
+# CAPITULO 6
+
+**1) Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería**
+
+![image](https://user-images.githubusercontent.com/93361435/143055572-2a311661-3b0b-4740-a22c-42f25ed0952f.png)
+
+Realizamos las conexiones de esta manera:
+
+![image](https://user-images.githubusercontent.com/93361435/143057777-b83bb0b2-a1ad-4999-aaf5-9fb88508e1ab.png)
+
+
+
+**7) Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
+
+![image](https://user-images.githubusercontent.com/93361435/143058928-452b4494-1fe5-4a2d-8255-54f72c0e8f99.png)
+
+En el interruptor A = V1 y V4 = 15 V; V2 y V3 = 0 V
+
+En el interruptor B = V1 y V3 = 15 V; V2 y V4 = 0 V
+
+En el interruptor C = V1 y V2 = 15 V; V3 y V4 = 0 V
+
+
+
+**15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
+
+![image](https://user-images.githubusercontent.com/93361435/143070570-20243d9a-c72a-4f1f-8493-fe0ae6f87fe8.png)
+
+![image](https://user-images.githubusercontent.com/93361435/143070149-d0885843-955f-49c9-a5d5-28acf11e0e30.png)
+
+![image](https://user-images.githubusercontent.com/93361435/143067812-1e965c31-34fc-4ccc-a572-d9fdadc8ab0b.png)
+
+![image](https://user-images.githubusercontent.com/93361435/143069094-ddfd966b-92b4-4e60-9272-60b6c9432569.png)
 
 
 
