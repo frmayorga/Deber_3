@@ -252,6 +252,14 @@ Con los calculos anteriormente realizados procedemos a calcular la potencia tota
 ![image](https://user-images.githubusercontent.com/93361435/143130744-f7ce40b7-3528-4484-9012-df948d7940e4.png)
 
 
+#### 43) Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+- la corriente total seria de 3.41A y se distribuiria de la siguiente manera.
+- F1--->3.41A
+- F2--->1.70A
+- F3--->1.14A
+- F4--->0.85A
+- F5--->0.68A
 
 **45) ¿Qué está mal con el circuito de la figura 6-86?**
 
