@@ -161,6 +161,10 @@ Se puede conectar de la siguiente manera:
 ![image](https://user-images.githubusercontent.com/93361435/143086067-21df41cd-7ac9-4306-b718-f8b01875af0c.png)
 
 
+#### 5) El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?  
+
+![image](https://user-images.githubusercontent.com/93398718/143146140-93926870-e0c0-435a-b86f-9323b33d0c10.png)  
+- los medidores miden el mismo voltaje porque el circuito esta en serie.
 
 **7) ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?**
 
@@ -175,6 +179,11 @@ Interruptor en B = V1 y V3 = 15 V; V2 y V4 = 0 V;
 Interruptor en C = V1 y V2 = 15 V; V3 y V4 = 0 V; 
 
 
+#### 11) En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.  
+
+![image](https://user-images.githubusercontent.com/93398718/143148464-51216277-a3e1-4136-a2c0-796dd915dd14.png)  
+
+![image](https://user-images.githubusercontent.com/93398718/143148408-cd5f8ad1-f859-4418-9439-4be25d0bbdb1.png)
 
 **15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
 
