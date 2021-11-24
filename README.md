@@ -193,6 +193,9 @@ Interruptor en C = V1 y V2 = 15 V; V3 y V4 = 0 V;
 
 Realizamos el calculo de la resistencia total con la formula de resistores en paralelo.
 
+#### 19) Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+
+![image](https://user-images.githubusercontent.com/93398718/143161435-7256a2eb-6ab1-4905-93e6-50962a7e03a6.png)
 
 
 **21)¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?**
