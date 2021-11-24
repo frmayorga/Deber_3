@@ -209,10 +209,9 @@ Podemos observar que dependiendo de como esten los interruptorres podemos calcul
 ![image](https://user-images.githubusercontent.com/93361435/143132880-99fea9d7-7fb4-40c4-a53a-a3e5fe24149f.png)
 
 
+#### 25) Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
 
-
-
-
+- la corriente es de 0.05A y el motivo por el cual es mejor conectarlos en paralelo es porque si uno de los focos no funciona este no afectara a todo el circuito, de modo que se encendera sin problemas, caso contrario es el de un circuito en paralelo, el cual si un solo componente no funciona los demas dejarn de funcionar.
 
 **27) ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ohmios mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?**
 
@@ -222,6 +221,13 @@ Usando la ley de Ohm calculamos la resistencia total, despues despejamos R2 de l
 
 ![image](https://user-images.githubusercontent.com/93361435/143132062-ea6ce155-415f-4845-8bef-c3df50e978b2.png)
 
+
+#### 31) . Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.  
+
+![image](https://user-images.githubusercontent.com/93398718/143164379-21b2c96b-4440-473a-bd92-461072b0e586.png)    
+- en B la corriente es de 4.75 mA
+- en A la corriente es de 2.25 mA
+- en C la corriente es la suma de las anteriores, pues esta en paralelo y es igual a 7mA
 
 
 **33) Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.**
