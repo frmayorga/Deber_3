@@ -275,6 +275,9 @@ Observamos que los valores no coinciden asi que podria tratarse de un resistor a
 
 Encontramos que el resistor tres esta abierto o desconectado del circuito. 
 
+#### 49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+![image](https://user-images.githubusercontent.com/93398718/143320567-3834cea1-38aa-4042-92be-fc19f94300fd.png)
+
 
 # VIDEO
 
