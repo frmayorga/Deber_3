@@ -241,7 +241,16 @@ Usamos la formula de divisor de corriente, ademas calculamos la resistencia tota
 ![image](https://user-images.githubusercontent.com/93361435/143130978-0c3680f6-1338-47da-acf2-eeb92b2bec34.png)
 
 
+#### 37) En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kÆ de escala completa entre la derivación para realizar la medición.
 
+- a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
+aplicación de medición de 50 A?  
+
+la resistencia es de 1 miliohm
+
+- b) ¿Cuánta corriente circula por el medidor?  
+
+la corriente es de 5 microamperios
 
 **39) Determine la potencia total en cada uno de los circuitos de la figura 6-81.**
 
