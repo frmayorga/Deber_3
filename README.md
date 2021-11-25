@@ -16,6 +16,9 @@ Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 
 ![Resumen cap5-1](https://user-images.githubusercontent.com/93361435/142785465-edbfcf95-b859-419c-948f-137ee6234ba6.jpg)
 
+![Resemen cap5-2](https://user-images.githubusercontent.com/93561706/143388383-f4c73ab8-b65b-4f77-b1d5-016d55cdcda8.png)
+
+
 ### resumen capitulo 6
 
 ![](https://github.com/frmayorga/Deber_3/blob/main/deber%203%20capitulo%206..jpg)
