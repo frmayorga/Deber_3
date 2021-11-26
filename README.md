@@ -8,7 +8,12 @@ Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 
 ## OBJETIVO GENERAL 
 
+- aprender las caracteristicas de los circuitos en serie y en paralelo, sus ventajas y defectos, ademas de su relacion con las leyes de kirchhoff.
+
 ## OBJETIVOS ESPECIFICOS
+
+- resolver problemas de circuitos en serie y paralelo mediante el estudio de su respectiva teoria. 
+- analizar las ventajas y desventajas de los circuitos en serie y en paralelo asi como tambien sus principales aplicaciones.
 
 # MARCO TEORICO
 
