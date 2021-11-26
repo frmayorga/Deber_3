@@ -127,6 +127,7 @@ Nos dice el ejercicio que son de la misma polaridad asi que el voltaje total cor
 -para estos calculos debemos tomar el sentido convencional de la corriente:   
 
 ![image](https://user-images.githubusercontent.com/93561706/143538167-3da562b3-d2f9-4582-9506-e9ad9d956bb8.png)
+
 -una vez que la se determino el sentido solo se debe proseder a sumar o restar segun corresponda.
 
 #### 31) Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
