@@ -211,6 +211,9 @@ Calculamos las caidas de voltaje, como vemos en el punto A el voltaje es el mism
 
 ![image](https://user-images.githubusercontent.com/93561706/143538836-41e4e007-11ba-4da2-9de5-4f85aece2d99.png)
 
+![image](https://user-images.githubusercontent.com/93561706/143594548-6d2bcbdf-ca58-4a71-bf92-a51b957ed7c3.png)
+
+- primero debemos encontrar las resistencia totan en cada situcaion, luego utilizando el concepto de division de voltaje aplicamos paar en contra el voltae presente en cada resistencia y se prosede a utilizar la ley de voltajes de kirchhoff para en contrar los voltajes en cada punto
 
 #### 55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.  
 ![image](https://user-images.githubusercontent.com/93398718/143108609-fdb733c4-4c14-4af3-b790-ea71cc4a4d9d.png)
