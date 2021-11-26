@@ -34,7 +34,10 @@ Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 
 
 ![image](https://user-images.githubusercontent.com/93398718/143049074-556703eb-0ede-474f-a8d9-db9f7efaaf62.png)
-
+#### 5) En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
+![image](https://user-images.githubusercontent.com/93561706/143537345-3de21809-3e28-4631-a567-8564d86acf81.png)
+![image](https://user-images.githubusercontent.com/93561706/143537368-606cefa3-9e2b-4e53-abca-0e652e8f40c2.png)
+-nos denemos fijar muy bien en las conecciones de la tarjeta tanto de la partede lantera como posterior.
 
 #### 7) La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
 ![image](https://user-images.githubusercontent.com/93398718/143049830-8c677484-3cd3-4be9-ac72-5f98cfb96462.png)
@@ -45,6 +48,13 @@ Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 El circuito esquematico seria de esta manera pulsando el interruptor le llegaria 4.5 v a cualquier lampara, ademas dependiendo de donde este el interruptor tenemos dos o tres lamparas conectadas en serie
 
 ![image](https://user-images.githubusercontent.com/93361435/142865696-72f4becb-14f3-4c29-a4b8-2daee55cc15f.png)
+
+
+#### 11) Encuentre la resistencia total de los siguientes grupos de resistores en serie:
+
+![image](https://user-images.githubusercontent.com/93561706/143537514-915901d9-d6f6-4108-94d3-c59bded2f462.png)
+
+- hay que tener en cuenta que los valores de las resistencias solo le pueden sumar si estan en el mismo prefijo ya aue se nos va hacer mucho mas facil.
 
 #### 13) ¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?
 - la recistencia total es la suma de todas las recistencias, como se tiene 12 resistores del mismo valor entonces la resistencia total es:
@@ -57,6 +67,19 @@ El circuito esquematico seria de esta manera pulsando el interruptor le llegaria
 Realizamos el despeje de R5 en la formula de la resistencia total en serie:
 
 ![image](https://user-images.githubusercontent.com/93361435/142788234-784d3830-7e49-4072-b3b1-fe94a0017fc7.png)
+
+#### 17) En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie
+
+![image](https://user-images.githubusercontent.com/93561706/143537659-1e283088-40b5-44db-93b7-073569c7bf7b.png)
+![image](https://user-images.githubusercontent.com/93561706/143537684-de4fb25f-17fe-4ffc-9aa0-da14fca33563.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143537696-42245a7f-91dc-4ffd-b224-b4581d3f2f77.png)
+![image](https://user-images.githubusercontent.com/93561706/143537729-102021b9-c28a-4602-b298-0c81ec4f14c1.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143537713-09350e8a-7136-4fbc-bcd4-c611432f4e1c.png)
+![image](https://user-images.githubusercontent.com/93561706/143537740-98eb5dcd-4d43-4408-846c-87a089fd16ef.png)
+
+- hay que tener en cuenta que los valores de las resistencias solo le pueden sumar si estan en el mismo prefijo ya aue se nos va hacer mucho mas facil.
 
 
 #### 19) ¿Cuál es la corriente presente en cada circuito de la figura 5-74?
@@ -74,6 +97,14 @@ Realizamos el calculo con la ley de ohm, hay que tener en cuenta que el valor de
 
 ![image](https://user-images.githubusercontent.com/93361435/142863867-8e72201f-4358-43f2-923d-4781ae269ac6.png)
 
+#### 23) ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+
+![image](https://user-images.githubusercontent.com/93561706/143537810-d971692f-c024-40e5-8c72-b17ee483575b.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143537830-df6b1763-d2ab-418d-a60e-b99428d1d5b6.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento, en este caso es la ley de ohm.
+
 #### 25)  
 ![image](https://user-images.githubusercontent.com/93398718/143056825-b6186b50-916e-4a5c-a19a-0f06967804fb.png)  
 ![image](https://user-images.githubusercontent.com/93398718/143056948-b1ea3c4d-36af-482c-b21c-25a5e3fc0cd8.png)  
@@ -87,6 +118,15 @@ Nos dice el ejercicio que son de la misma polaridad asi que el voltaje total cor
 
 ![image](https://user-images.githubusercontent.com/93361435/142866433-cf9453af-d0cf-4ab1-907b-796b4cd48ad4.png)
 
+#### 29) Determine el voltaje de fuente total en cada circuito de la figura 5-79
+
+![image](https://user-images.githubusercontent.com/93561706/143538076-f9f36135-812a-419d-81f0-d18e3e35b2ea.png)
+
+-para estos calculos debemos tomar el sentido convencional de la corriente:   
+
+![image](https://user-images.githubusercontent.com/93561706/143538167-3da562b3-d2f9-4582-9506-e9ad9d956bb8.png)
+-una vez que la se determino el sentido solo se debe proseder a sumar o restar segun corresponda.
+
 #### 31) Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
 - 20=1.5+5.5+3+6+V5 --> V5=4
 
@@ -98,11 +138,19 @@ Lo que hacemos es determinar la intesidad en una de las resistencias, como la in
 
 ![image](https://user-images.githubusercontent.com/93361435/142867619-4f9aa655-9866-4550-b8c4-5b33a93c1b93.png)
 
+#### 35) Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA
+
+![image](https://user-images.githubusercontent.com/93561706/143538297-1bc69abd-df85-4a09-9765-491ded2a820b.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento.
 
 #### 37) La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Æ que forma parte de la resistencia total en serie?  
 
 ![image](https://user-images.githubusercontent.com/93398718/143069204-91bfa58a-6afe-4bd5-be13-d39ae6527339.png)
 
+![image](https://user-images.githubusercontent.com/93561706/143538330-2811b180-9346-4967-ae3f-8758c6cb7e4f.png)
+
+-
 
 **39) Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).**
 
@@ -114,6 +162,13 @@ Observamos que podemos calcular los voltajes en cada punto en el punto A observa
 
 Usando RB como R1 Y RC como R3
 
+#### 41) ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
+
+![image](https://user-images.githubusercontent.com/93561706/143538428-f6899fa4-8434-4686-8b55-d5a6338c0109.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143538437-e78b0171-0fe9-4319-ba4d-c86e53ba399e.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento, en este caso es la division de voltaje.
 
 #### 43) Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?  
 
@@ -127,7 +182,13 @@ Usando RB como R1 Y RC como R3
 
 Tenemos el siguiente circuito esquematico para la indicacion.
 
+#### 47) ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
 
+![image](https://user-images.githubusercontent.com/93561706/143538688-8cecbdfc-5155-4be2-b73b-d22169dd05d8.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143538700-36d3299f-045d-42dc-b1f3-652adc628467.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento, en este caso son los conceptos de potencia.
 
 #### 49) Encuentre RT en la figura 5-89.
 ![image](https://user-images.githubusercontent.com/93398718/143072392-83d63501-1906-4c6a-89fd-61d55d2848f9.png)
@@ -143,6 +204,11 @@ Calculamos las caidas de voltaje, como vemos en el punto A el voltaje es el mism
 
 ![image](https://user-images.githubusercontent.com/93361435/143037814-00d5082f-8a2e-4a12-9ff0-1ea3fad4bacd.png)
 
+#### 53) En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/93561706/143538836-41e4e007-11ba-4da2-9de5-4f85aece2d99.png)
+
+
 #### 55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.  
 ![image](https://user-images.githubusercontent.com/93398718/143108609-fdb733c4-4c14-4af3-b790-ea71cc4a4d9d.png)
 
@@ -157,6 +223,12 @@ Calculamos las caidas de voltaje, como vemos en el punto A el voltaje es el mism
 
 Los resultados son correctos podemos observar que los datos son correctos, usando tanto la cara posterior como la delantera al conectar los puntos podemos notar que los valores son correctos.
 
+#### 59) Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo
+
+![image](https://user-images.githubusercontent.com/93561706/143538936-d4a00d31-8ca3-4086-bf84-fe8637252e63.png)
+![image](https://user-images.githubusercontent.com/93561706/143538951-6b90973b-db81-44df-b006-da0857df0af3.png)
+
+- al comparar los datros q nos dan con el de la tabla hay un momento de incoerencia ya que se estan contradiciendo, los valores de la resistencia no considen en los terminales y no existirian ya que existiria unas altas impedancias.
 
 # CAPITULO 6
 
@@ -168,6 +240,12 @@ Se puede conectar de la siguiente manera:
 
 ![image](https://user-images.githubusercontent.com/93361435/143086067-21df41cd-7ac9-4306-b718-f8b01875af0c.png)
 
+#### 3) Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66
+![image](https://user-images.githubusercontent.com/93561706/143539288-929c50a6-4910-40af-9971-4b22b906defe.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143539304-987a0ae3-f27f-4792-aa06-04a4b9fd5aff.png)
+
+-nos denemos fijar muy bien en las conecciones de la tarjeta tanto de la partede lantera como posterior.
 
 #### 5) El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?  
 
@@ -186,6 +264,11 @@ Interruptor en B = V1 y V3 = 15 V; V2 y V4 = 0 V;
 
 Interruptor en C = V1 y V2 = 15 V; V3 y V4 = 0 V; 
 
+#### 9) Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+![image](https://user-images.githubusercontent.com/93561706/143539451-cbaeeba2-93a0-477e-a8d3-2e33295ee72e.png)
+
+- este ejercicio es una muestra clara de que debemos saber los conceptos de la ley de corrientes de kirchhoff y en que consiste.
 
 #### 11) En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.  
 
@@ -200,6 +283,12 @@ Interruptor en C = V1 y V2 = 15 V; V3 y V4 = 0 V;
 ![image](https://user-images.githubusercontent.com/93361435/143132768-960af517-5029-4289-82bd-38e49d73e88c.png)
 
 Realizamos el calculo de la resistencia total con la formula de resistores en paralelo.
+
+#### 17) ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
+
+![image](https://user-images.githubusercontent.com/93561706/143539613-cb07162c-b122-443e-b946-eecedbd34085.png)
+
+-en importante tener claros que la suma de resistencia son diferentes para lo que son circuitos en serie y paralelo para que no tengamos equivocaciones.
 
 #### 19) Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
 
@@ -216,6 +305,11 @@ Podemos observar que dependiendo de como esten los interruptorres podemos calcul
 
 ![image](https://user-images.githubusercontent.com/93361435/143132880-99fea9d7-7fb4-40c4-a53a-a3e5fe24149f.png)
 
+#### 23) Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+![image](https://user-images.githubusercontent.com/93561706/143539778-2347f8e2-8d88-4546-9148-eaa6f8871e25.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento, en este caso es la division de corriente.
 
 #### 25) Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
 
@@ -229,6 +323,13 @@ Usando la ley de Ohm calculamos la resistencia total, despues despejamos R2 de l
 
 ![image](https://user-images.githubusercontent.com/93361435/143132062-ea6ce155-415f-4845-8bef-c3df50e978b2.png)
 
+#### 29) Encuentre los valores de las cantidades no especificadas en la figura 6-77
+
+![image](https://user-images.githubusercontent.com/93561706/143540073-36fe5a68-d6e5-4be3-9978-ac5eb292991a.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143540103-485ac16c-4acf-4e1a-9b43-32a82e45d9dd.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento.
 
 #### 31) . Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.  
 
@@ -249,6 +350,14 @@ Usamos la formula de divisor de corriente, ademas calculamos la resistencia tota
 ![image](https://user-images.githubusercontent.com/93361435/143130978-0c3680f6-1338-47da-acf2-eeb92b2bec34.png)
 
 
+#### 35) Determine todos los valores de resistor en la figura 6-83. RT =773 Ω.
+
+![image](https://user-images.githubusercontent.com/93561706/143540281-df3267a0-974f-4d66-85d4-42bf43f0a313.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143540306-38799f43-4b58-411b-811c-3892c2c20347.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento.
+
 #### 37) En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kÆ de escala completa entre la derivación para realizar la medición.
 
 - a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
@@ -268,6 +377,13 @@ Con los calculos anteriormente realizados procedemos a calcular la potencia tota
 
 ![image](https://user-images.githubusercontent.com/93361435/143130744-f7ce40b7-3528-4484-9012-df948d7940e4.png)
 
+#### 41) Encuentre los valores de las cantidades no especificadas en la figura 6-84
+
+![image](https://user-images.githubusercontent.com/93561706/143540350-c3ef7ce2-8328-4234-a755-c72abffabe98.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143540408-dac8f703-063d-4c3f-8736-d081a9224eb1.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento. 
 
 #### 43) Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
 
@@ -291,6 +407,16 @@ Observamos que los valores no coinciden asi que podria tratarse de un resistor a
 ![image](https://user-images.githubusercontent.com/93361435/143130594-b43fb517-5e58-4b74-92d7-e0aa53aa8bac.png)
 
 Encontramos que el resistor tres esta abierto o desconectado del circuito. 
+
+#### 47) Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
+
+![image](https://user-images.githubusercontent.com/93561706/143540554-7ff1c412-4917-4686-9bbb-ba1739ab77de.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143540566-eac549ef-3368-43a7-b407-28ef2e705b61.png)
+
+![image](https://user-images.githubusercontent.com/93561706/143540577-9c340234-0fbf-4d07-b213-ea8bf3729781.png)
+
+-para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento.
 
 #### 49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 ![image](https://user-images.githubusercontent.com/93398718/143320567-3834cea1-38aa-4042-92be-fc19f94300fd.png)
