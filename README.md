@@ -387,7 +387,7 @@ Con los calculos anteriormente realizados procedemos a calcular la potencia tota
 
 ![image](https://user-images.githubusercontent.com/93561706/143540350-c3ef7ce2-8328-4234-a755-c72abffabe98.png)
 
-![image](https://user-images.githubusercontent.com/93561706/143540408-dac8f703-063d-4c3f-8736-d081a9224eb1.png)
+![image](https://user-images.githubusercontent.com/93561706/143596445-7ac5b212-1557-476d-b5e9-4ff672a1a622.png)
 
 -para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento. 
 
