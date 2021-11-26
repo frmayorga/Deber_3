@@ -431,6 +431,8 @@ Encontramos que el resistor tres esta abierto o desconectado del circuito.
 
 # VIDEO
 
+https://youtu.be/nq3DqGDV4m4
+
 # CONCLUSIONES
 
 - Los circuitos en serie y en paralelo tienen diversas aplicaciones, es importante notar para que lo necesitamos ya que si elegimos el circuito incorrecto para nuestra aplicacion no va a funcionar de manera correcta, por ejemplo en el caso del cableado de luz se usa un circuito por si se daña uno de los focos los demás siguen funcionando 
@@ -438,3 +440,5 @@ Encontramos que el resistor tres esta abierto o desconectado del circuito.
 - Tenemos que los circuitos en serie son considerados divisores de voltaje mientras que los circuitos en paralelo son considerados divisores de corriente.
 
 # BIBLIOGRAFIA
+
+- Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
