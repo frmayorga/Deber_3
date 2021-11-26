@@ -231,7 +231,7 @@ Los resultados son correctos podemos observar que los datos son correctos, usand
 ![image](https://user-images.githubusercontent.com/93561706/143538936-d4a00d31-8ca3-4086-bf84-fe8637252e63.png)
 ![image](https://user-images.githubusercontent.com/93561706/143538951-6b90973b-db81-44df-b006-da0857df0af3.png)
 
-- al comparar los datros q nos dan con el de la tabla hay un momento de incoerencia ya que se estan contradiciendo, los valores de la resistencia no considen en los terminales y no existirian ya que existiria unas altas impedancias.
+- al comparar los datos q nos dan con el de la tabla hay un momento de incoherencia ya que se estan contradiciendo, los valores de la resistencia no considen en los terminales y no existirian ya que existiria unas altas impedancias.
 
 # CAPITULO 6
 
@@ -248,7 +248,7 @@ Se puede conectar de la siguiente manera:
 
 ![image](https://user-images.githubusercontent.com/93561706/143539304-987a0ae3-f27f-4792-aa06-04a4b9fd5aff.png)
 
--nos denemos fijar muy bien en las conecciones de la tarjeta tanto de la partede lantera como posterior.
+-nos debemos fijar muy bien en las conecciones de la tarjeta tanto de la parte delantera como posterior.
 
 #### 5) El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?  
 
@@ -312,7 +312,7 @@ Podemos observar que dependiendo de como esten los interruptorres podemos calcul
 
 ![image](https://user-images.githubusercontent.com/93561706/143539778-2347f8e2-8d88-4546-9148-eaa6f8871e25.png)
 
--para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento, en este caso es la division de corriente.
+-para calcular los valores de que no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento, en este caso es la division de corriente.
 
 #### 25) Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
 
@@ -419,7 +419,7 @@ Encontramos que el resistor tres esta abierto o desconectado del circuito.
 
 ![image](https://user-images.githubusercontent.com/93561706/143540577-9c340234-0fbf-4d07-b213-ea8bf3729781.png)
 
--para calcular los valores de e¿no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento.
+-para calcular los valores de que no estan ahi solo debemos aplicar todos los conceptos ya aprendidos hastael momento.
 
 #### 49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 ![image](https://user-images.githubusercontent.com/93398718/143320567-3834cea1-38aa-4042-92be-fc19f94300fd.png)
