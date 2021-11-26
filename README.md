@@ -433,4 +433,8 @@ Encontramos que el resistor tres esta abierto o desconectado del circuito.
 
 # CONCLUSIONES
 
+- Los circuitos en serie y en paralelo tienen diversas aplicaciones, es importante notar para que lo necesitamos ya que si elegimos el circuito incorrecto para nuestra aplicacion no va a funcionar de manera correcta, por ejemplo en el caso del cableado de luz se usa un circuito por si se daña uno de los focos los demás siguen funcionando 
+- Las leyes de Kirchoff nos puede ayudar a simplificar cálculos 
+- Tenemos que los circuitos en serie son considerados divisores de voltaje mientras que los circuitos en paralelo son considerados divisores de corriente.
+
 # BIBLIOGRAFIA
