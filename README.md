@@ -36,7 +36,9 @@ Fernanda Mayorga, Stalyn Castellanos, Nicolás Reyes
 ![image](https://user-images.githubusercontent.com/93398718/143049074-556703eb-0ede-474f-a8d9-db9f7efaaf62.png)
 #### 5) En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 ![image](https://user-images.githubusercontent.com/93561706/143537345-3de21809-3e28-4631-a567-8564d86acf81.png)
+
 ![image](https://user-images.githubusercontent.com/93561706/143537368-606cefa3-9e2b-4e53-abca-0e652e8f40c2.png)
+
 -nos denemos fijar muy bien en las conecciones de la tarjeta tanto de la partede lantera como posterior.
 
 #### 7) La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
